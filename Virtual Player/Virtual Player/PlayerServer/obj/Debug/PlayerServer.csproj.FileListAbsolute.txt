@@ -1,0 +1,207 @@
+C:\temp\Virtual Player\PlayerServer\bin\Debug\PlayerServer.exe.config
+C:\temp\Virtual Player\PlayerServer\bin\Debug\PlayerServer.exe
+C:\temp\Virtual Player\PlayerServer\bin\Debug\PlayerServer.pdb
+C:\temp\Virtual Player\PlayerServer\obj\Debug\PlayerServer.csprojResolveAssemblyReference.cache
+C:\temp\Virtual Player\PlayerServer\obj\Debug\PlayerServer.FrmMain.resources
+C:\temp\Virtual Player\PlayerServer\obj\Debug\PlayerServer.Properties.Resources.resources
+C:\temp\Virtual Player\PlayerServer\obj\Debug\PlayerServer.csproj.GenerateResource.Cache
+C:\temp\Virtual Player\PlayerServer\obj\Debug\PlayerServer.exe
+C:\temp\Virtual Player\PlayerServer\obj\Debug\PlayerServer.pdb
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\obj\Debug\PlayerServer.csprojResolveAssemblyReference.cache
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\obj\Debug\PlayerServer.g.resources
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\obj\Debug\PlayerServer.FrmMain.resources
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\obj\Debug\PlayerServer.Properties.Resources.resources
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\obj\Debug\PlayerServer.csproj.GenerateResource.Cache
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\PlayerServer.exe.config
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\PlayerServer.exe
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\PlayerServer.pdb
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Cecil.FlowAnalysis.dll
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.Data.Services.dll
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.dll
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.Instrumentation.dll
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.Linq.dll
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.NativeQueries.dll
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Mono.Cecil.dll
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Mono.Reflection.dll
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\PlayerDomain.dll
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\PlayerRepository.dll
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\SimpleInjector.dll
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\PlayerDomain.pdb
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\PlayerRepository.pdb
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.xml
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.Instrumentation.xml
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.NativeQueries.xml
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\bin\Debug\SimpleInjector.xml
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\obj\Debug\PlayerServer.exe
+C:\Users\Thaise Medeiros\Downloads\Virtual Player\Virtual Player\PlayerServer\obj\Debug\PlayerServer.pdb
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\PlayerServer.exe.config
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\PlayerServer.exe
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\PlayerServer.pdb
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Cecil.FlowAnalysis.dll
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.Data.Services.dll
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.dll
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.Instrumentation.dll
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.Linq.dll
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.NativeQueries.dll
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Mono.Cecil.dll
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Mono.Reflection.dll
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\PlayerDomain.dll
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\PlayerRepository.dll
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\SimpleInjector.dll
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\System.Reflection.TypeExtensions.dll
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\PlayerDomain.pdb
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\PlayerRepository.pdb
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.xml
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.Instrumentation.xml
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.NativeQueries.xml
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\SimpleInjector.xml
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\obj\Debug\PlayerServer.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\obj\Debug\PlayerServer.g.resources
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\obj\Debug\PlayerServer.FrmMain.resources
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\obj\Debug\PlayerServer.Properties.Resources.resources
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\obj\Debug\PlayerServer.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\obj\Debug\PlayerServer.exe
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\obj\Debug\PlayerServer.pdb
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\3 Doors Down - Here Without You.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Amaranthe - The Nexus.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Avenged Sevenfold - Dear God (video).mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Avenged Sevenfold - Hail To The King [Official Music Video].mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Avenged Sevenfold - Nightmare [Official Music Video].mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Avenged Sevenfold - So Far Away [HD].mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Breaking Benjamin - Angels Fall (Official Video).mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Breaking Benjamin - Without You Legendado.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Eduardo e Mônica - Legião Urbana CLIPE OFICIAL  HD.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Evanescence - Bring Me To Life (Video).mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Evanescence - My Immortal (Video).mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Five Finger Death Punch - Wrong Side Of Heaven.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Fotos\Amaranthe_-_The_Nexus_2013.jpg
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Fotos\avenged_nightmare.jpg
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Fotos\avenged_sevenfold.jpg
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Fotos\Away_from_the_sun.jpg
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Fotos\Hail-to-the-king-capa.jpg
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Halestorm - Apocalyptic [Official Video].mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Halestorm - I Am The Fire [Official Video].mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Halestorm - Mayhem [Official Video].mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Halestorm - Scream [Official Audio].mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Hoobastank - The Reason.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\I Don't Care - Apocalyptica feat Adam Gontier.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Incubus - Drive.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Incubus - Wish You Were Here.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Legião Urbana - Dezesseis.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Legião Urbana - Faroeste Caboclo.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Legião Urbana - Quando o Sol Bater na Janela do Teu Quarto.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Legião Urbana - Vento No Litoral.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Nickelback - Far Away _ Legendado Pt.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Nickelback - Lullaby.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Nickelback - Savin' Me (Legendado PT-Br).mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Nightwish - Wish I Had an Angel [HD - Lyrics].mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Nirvana - Come As You Are.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Nirvana - Lithium.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Nirvana - Smells Like Teen Spirit.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Rise Against - Give It All.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Slipknot - Psychosocial.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Slipknot - Vermillion Pt. 2.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Stone Sour - Through Glass (Official Video).mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\The Pretty Reckless - Burn.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\The Pretty Reckless - Follow Me Down  [MUSIC VIDEO].mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\The Pretty Reckless - Going To Hell (Official Music Video).mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\The Pretty Reckless - Make Me Wanna Die.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Three Days Grace - I am machine (music video).mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Three Days Grace - Never Too Late.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Volbeat - Fallen.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Volbeat - I Only Wanna Be With You.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Volbeat - Lola Montez.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Volbeat - The Bliss.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Within Temptation - And We Run ft. Xzibit.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Within Temptation - Angels.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Within Temptation - Dangerous ft. Howard Jones.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Within Temptation - Frozen.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Within Temptation - Let Us Burn.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Within Temptation - Memories.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\Within Temptation - Paradise (What About Us_) ft. Tarja.mp3
+\\Mac\Home\Downloads\Virtual Player\Virtual Player\Virtual Player\PlayerServer\bin\Debug\Musicas\[Official] Apocalyptica - Not Strong Enough (Feat. Brent Smith).mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\3 Doors Down - Here Without You.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Amaranthe - The Nexus.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Avenged Sevenfold - Dear God (video).mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Avenged Sevenfold - Hail To The King [Official Music Video].mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Avenged Sevenfold - Nightmare [Official Music Video].mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Avenged Sevenfold - So Far Away [HD].mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Breaking Benjamin - Angels Fall (Official Video).mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Breaking Benjamin - Without You Legendado.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Eduardo e Monica - Legiao Urbana CLIPE OFICIAL  HD.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Evanescence - Bring Me To Life (Video).mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Evanescence - My Immortal (Video).mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Five Finger Death Punch - Wrong Side Of Heaven.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Halestorm - Apocalyptic [Official Video].mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Halestorm - I Am The Fire [Official Video].mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Halestorm - Mayhem [Official Video].mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Halestorm - Scream [Official Audio].mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Hoobastank - The Reason.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\I Don't Care - Apocalyptica feat Adam Gontier.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Incubus - Drive.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Incubus - Wish You Were Here.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Legiao Urbana - Dezesseis.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Legiao Urbana - Faroeste Caboclo.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Legiao Urbana - Quando o Sol Bater na Janela do Teu Quarto.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Legiao Urbana - Vento No Litoral.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Nickelback - Far Away _ Legendado Pt.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Nickelback - Lullaby.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Nickelback - Savin' Me (Legendado PT-Br).mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Nightwish - Wish I Had an Angel [HD - Lyrics].mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Nirvana - Come As You Are.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Nirvana - Lithium.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Nirvana - Smells Like Teen Spirit.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Rise Against - Give It All.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Slipknot - Psychosocial.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Slipknot - Vermillion Pt. 2.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Stone Sour - Through Glass (Official Video).mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\The Pretty Reckless - Burn.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\The Pretty Reckless - Follow Me Down  [MUSIC VIDEO].mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\The Pretty Reckless - Going To Hell (Official Music Video).mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\The Pretty Reckless - Make Me Wanna Die.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Three Days Grace - I am machine (music video).mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Three Days Grace - Never Too Late.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Volbeat - Fallen.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Volbeat - I Only Wanna Be With You.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Volbeat - Lola Montez.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Volbeat - The Bliss.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Within Temptation - And We Run ft. Xzibit.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Within Temptation - Angels.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Within Temptation - Dangerous ft. Howard Jones.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Within Temptation - Frozen.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Within Temptation - Let Us Burn.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Within Temptation - Memories.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\Within Temptation - Paradise (What About Us_) ft. Tarja.mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Musicas\[Official] Apocalyptica - Not Strong Enough (Feat. Brent Smith).mp3
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\PlayerServer.exe.config
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\PlayerServer.exe
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\PlayerServer.pdb
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Cecil.FlowAnalysis.dll
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.Data.Services.dll
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.dll
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.Instrumentation.dll
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.Linq.dll
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.NativeQueries.dll
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Mono.Cecil.dll
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Mono.Reflection.dll
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\PlayerDomain.dll
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\PlayerRepository.dll
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\SimpleInjector.dll
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\PlayerDomain.pdb
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\PlayerRepository.pdb
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.xml
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.Instrumentation.xml
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Db4objects.Db4o.NativeQueries.xml
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\bin\Debug\SimpleInjector.xml
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\obj\Debug\PlayerServer.csprojResolveAssemblyReference.cache
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\obj\Debug\PlayerServer.FrmMain.resources
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\obj\Debug\PlayerServer.Properties.Resources.resources
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\obj\Debug\PlayerServer.csproj.GenerateResource.Cache
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\obj\Debug\PlayerServer.exe
+C:\Users\Thaise Medeiros\Desktop\Virtual Player(1)\Virtual Player\PlayerServer\obj\Debug\PlayerServer.pdb
